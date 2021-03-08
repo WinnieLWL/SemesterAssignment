@@ -1,0 +1,4 @@
+-Co occurence matrix
+-Trend variables
+-other features
+-train test split
